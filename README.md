@@ -1,4 +1,6 @@
 # EcommerceStore
+
+Migration Database
 Step 1. Startup project EcommerceStore.EntityFrameworkCore
 
 Step 2. Open package manager console
